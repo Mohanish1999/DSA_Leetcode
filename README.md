@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [1089-duplicate-zeros](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
