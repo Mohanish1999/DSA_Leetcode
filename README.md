@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1089-duplicate-zeros) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 ## Greedy
 |  |
 | ------- |
@@ -70,8 +73,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 <!---LeetCode Topics End-->
