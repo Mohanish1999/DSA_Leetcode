@@ -40,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1089-duplicate-zeros) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Mohanish1999/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
